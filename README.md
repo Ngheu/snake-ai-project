@@ -1,6 +1,6 @@
 # Snake AI Project - Đồ án Trí tuệ nhân tạo
 
-**Tên đồ án**: Ứng dụng trí tuệ nhân tạo vào trò chơi Snake  
+**Tên đồ án**: Snake game AI  
 **Môn học**: Trí tuệ nhân tạo  
 **Nhóm thực hiện**:  
 1. Võ Duy Phước - 2351010169  
@@ -8,7 +8,7 @@
 3. Nguyễn Thanh Vinh - 2351010244  
 4. Võ Thành Phi Long - 2351010117  
 
-**Giảng viên hướng dẫn**: Lê Viết Tuân  
+**Giảng viên hướng dẫn**: Lê Viết Tuấn  
 
 ## Tổng quan
 Dự án triển khai hệ thống chơi trò chơi Snake tự động bằng trí tuệ nhân tạo với ba phương pháp khác nhau:
